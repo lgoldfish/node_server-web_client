@@ -1,0 +1,103 @@
+  .header {
+    height: 64px;
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(233, 233, 233, 1);
+    box-sizing: border-box;
+    /*width: 1464px;*/
+  }
+
+  .header>img {
+    vertical-align: middle;
+    height: 64px;
+    position: relative;
+    top: -5px;
+  }
+
+  .header h1 {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    padding-left: 10px;
+    font-family: 'Arial Normal', 'Arial';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    color: #666666;
+    line-height: 64px;
+  }
+
+  .header span {
+    margin-right: 40px;
+    float: right;
+    line-height: 64px;
+    font-size: 14px;
+  }
+
+  .header span img {
+    margin-right: 10px;
+    vertical-align: middle;
+    cursor: pointer;
+  }
+
+  .header span i {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    border-radius: 16px;
+    background-color: rgba(153, 153, 153, 0.458823529411765);
+    line-height: 64px;
+    margin-right: 10px;
+    vertical-align: middle;
+    cursor: pointer;
+  }
+
+  .header span div {
+    display: inline-block;
+    width: 21px;
+    height: 32px;
+    border-radius: 15px;
+    background-color: rgba(153, 153, 153, 0.458823529411765);
+    vertical-align: middle;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+
+  .dateMac {
+    display: inline-block;
+    margin: 50px 50px 0px 0;
+  }
+
+  .dateMac #main {
+    width: 600px;
+    height: 580px;
+  }
+
+  .offLink {
+    display: inline-block;
+    margin: 50px 0 0 0px;
+  }
+
+  .offLink #main3 {
+    width: 700px;
+    height: 580px;
+  }
+
+  .monthMac {
+    /*margin: 50px;*/
+    margin: 50px 0 0 0;
+    height: 500px;
+  }
+
+  .monthMac #main2 {
+    width: 1300px;
+    height: 500px;
+  }
+
+  .Statistical_table{
+    width: 1500px;
+    margin: 0 auto;
+  }
+.ProjectTitle {
+  font-size: 20px;
+  padding: 10px 30px;
+}
